@@ -15,17 +15,17 @@ Each problem is organized into its own folder, categorized by difficulty and top
 .
 ├── Easy
 │   ├── 001_Two_Sum
-│   │   └── solution.py
+│   │   └── solution.c
 │   ├── 021_Merge_Two_Sorted_Lists
-│   │   └── solution.py
+│   │   └── solution.c
 │   └── ... 
 ├── Medium
 │   ├── 102_Binary_Tree_Level_Order_Traversal
-│   │   └── solution.py
+│   │   └── solution.c
 │   ├── 200_Number_of_Islands
-│   │   └── solution.py
+│   │   └── solution.c
 │   └── ...
 └── Hard
     ├── 124_Binary_Tree_Maximum_Path_Sum
-    │   └── solution.py
+    │   └── solution.c
     └── ...
